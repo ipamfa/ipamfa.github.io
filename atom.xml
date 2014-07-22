@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ipamfa.github.io/atom.xml" rel="self"/>
   <link href="http://ipamfa.github.io/"/>
-  <updated>2014-07-23T05:42:21+07:00</updated>
+  <updated>2014-07-23T06:13:45+07:00</updated>
   <id>http://ipamfa.github.io/</id>
   <author>
     <name><![CDATA[Ipam Fuaddina Adam]]></name>
@@ -28,7 +28,10 @@
 </ol>
 
 
-<p>Analisis terhadap konsep CRT (Chinese Remainder Theorem):</p>
+<p>inti dari broadcast attack hastad adalah mencari solusi untuk sistem kongruen, mirip seperti pada CRT. bedanya pada CRT persamaan kongruen hanya dalam bentuk satu variabel sedangkan pada broadcast attack persamaan berbentuk polynomial <br></p>
+
+<h4>Analisis terhadap konsep CRT (Chinese Remainder Theorem)</h4>
+
 
 <ul>
 <li> Problem CRT dapat dilihat sebagai suatu Ring Automorphism</li>
@@ -38,6 +41,13 @@
 <li> Pada group berlaku homomorphism (dan juga isomorphism)</li>
 <li> Introduction to relasi homomorphism dan isomorphism dapat di baca di [Redfield p.160 introduction to abstract algebra]</li>
 </ul>
+
+
+
+
+<h4>Hensel Lifting</h4>
+
+
 
 ]]></content>
   </entry>
