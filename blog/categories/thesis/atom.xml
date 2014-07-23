@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Thesis | Ipam Octopress Blog]]></title>
   <link href="http://ipamfa.github.io/blog/categories/thesis/atom.xml" rel="self"/>
   <link href="http://ipamfa.github.io/"/>
-  <updated>2014-07-23T07:21:06+07:00</updated>
+  <updated>2014-07-23T15:26:47+07:00</updated>
   <id>http://ipamfa.github.io/</id>
   <author>
     <name><![CDATA[Ipam Fuaddina Adam]]></name>
@@ -18,9 +18,9 @@
     <link href="http://ipamfa.github.io/blog/2014/07/23/target-sebelum-lebaran/"/>
     <updated>2014-07-23T04:33:00+07:00</updated>
     <id>http://ipamfa.github.io/blog/2014/07/23/target-sebelum-lebaran</id>
-    <content type="html"><![CDATA[<p>Beberapa target sebelum lebaran :</p>
+    <content type="html"><![CDATA[<p>Beberapa target sebelum lebaran yang sudah ditetapkan bu Ari:</p>
 
-<ol>
+<ol style="margin-left: 30px">
 <li>dokumentasi konsep dasar lattice, good bases/bad bases</li>
 <li>dokumentasi GGH crypto system meliputi proses enkripsi dan dekripsi</li>
 <li>dokumentasi rangkuman esensi metode Hastad broadcast attack</li>
@@ -28,12 +28,14 @@
 </ol>
 
 
-<p>inti dari broadcast attack hastad adalah mencari solusi untuk sistem kongruen, mirip seperti pada CRT. bedanya pada CRT persamaan kongruen hanya dalam bentuk satu variabel sedangkan pada broadcast attack persamaan berbentuk polynomial <br></p>
+<p>
+inti dari broadcast attack hastad adalah mencari solusi untuk sistem kongruen, mirip seperti pada CRT. bedanya pada CRT persamaan kongruen hanya dalam bentuk satu variabel sedangkan pada broadcast attack persamaan berbentuk polynomial </p>
+
 
 <h4>Analisis terhadap konsep CRT (Chinese Remainder Theorem)</h4>
 
 
-<ul>
+<ul style="margin-left: 30px">
 <li> Problem CRT dapat dilihat sebagai suatu Ring Automorphism</li>
 <li> Ring sebagai struktur aljabar dengan sifat-sifat tertentu (distributif, komutatif, asosiatif)</li>
 <li> Ring dapat diekspresikan dalam bentuk additive group dan monoid</li>
@@ -41,11 +43,6 @@
 <li> Pada group berlaku homomorphism (dan juga isomorphism)</li>
 <li> Introduction to relasi homomorphism dan isomorphism dapat di baca di [Redfield p.160 introduction to abstract algebra]</li>
 </ul>
-
-
-
-
-<h4>Hensel Lifting</h4>
 
 
 
