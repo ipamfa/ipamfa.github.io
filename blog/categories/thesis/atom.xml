@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Thesis | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Thesis | Ipam Octopress Blog]]></title>
   <link href="http://ipamfa.github.io/blog/categories/thesis/atom.xml" rel="self"/>
   <link href="http://ipamfa.github.io/"/>
-  <updated>2014-07-23T06:13:45+07:00</updated>
+  <updated>2014-07-23T07:21:06+07:00</updated>
   <id>http://ipamfa.github.io/</id>
   <author>
     <name><![CDATA[Ipam Fuaddina Adam]]></name>
